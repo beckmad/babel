@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td><code>cd path/to/</code></td>
-      <td>Go into this project.</td>
+      <td>Go to this project.</td>
     </tr>
     <tr>
       <td><code>npm i</code></td>

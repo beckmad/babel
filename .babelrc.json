@@ -1,0 +1,21 @@
+{
+	"presets": [
+		["@babel/preset-env",
+			{
+				"debug": true,
+				"targets": {
+					"chrome": "71",
+					"safari": "10",
+					"android": "62",
+					"samsung": "7.4",
+					"opera": "56",
+					"firefox": "52",
+					"edge": "17",
+					"ios": "11",
+
+				}
+			}
+		]
+
+	]
+}

@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td><code>npx browserlist</code></td>
-      <td>Supported Browsers</td>
+      <td>Supported browsers</td>
     </tr>
   </tbody>
 </table>

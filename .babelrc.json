@@ -2,20 +2,11 @@
 	"presets": [
 		["@babel/preset-env",
 			{
+				"corejs": 3,
+				"useBuiltIns": false,
 				"debug": true,
-				"targets": {
-					"chrome": "71",
-					"safari": "10",
-					"android": "62",
-					"samsung": "7.4",
-					"opera": "56",
-					"firefox": "52",
-					"edge": "17",
-					"ios": "11",
-
-				}
+				"modules": false
 			}
 		]
-
 	]
 }

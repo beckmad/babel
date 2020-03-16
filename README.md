@@ -24,5 +24,9 @@
       <td><code>npm start</code></td>
       <td>Run the build for production</td>
     </tr>
+    <tr>
+      <td><code>npx browserlist</code></td>
+      <td>Supported Browsers</td>
+    </tr>
   </tbody>
 </table>
